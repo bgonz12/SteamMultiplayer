@@ -1,0 +1,4 @@
+﻿BaseMenu.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  SteamworksExample.vcxproj -> C:\Users\bgonz\workspace\Unreal\Tutorials\Udemy\UnrealMultiplayerMaster\SteamMultiplayer\Encrypted\sdk\steamworksexample\.\Debug\SteamworksExample.exe
+          1 file(s) copied.
+          1 file(s) copied.
